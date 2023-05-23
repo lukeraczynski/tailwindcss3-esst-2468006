@@ -22,3 +22,5 @@ class OpenCSV:
         with open(self.filename, 'r') as f:
             print(f.read()) 
             
+
+            
